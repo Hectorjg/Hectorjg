@@ -1,4 +1,5 @@
 Hello, I'm Héctor, a passionate Data Analyst specializing in Python programming. 
+
 My ambition is to broaden my expertise in supervised machine learning and embark on a journey of continuous learning and professional growth.
 Driven by a genuine interest in programming languages, I've honed my skills in Python and MySQL, 
 utilizing them to extract insights from data and provide valuable solutions. 
